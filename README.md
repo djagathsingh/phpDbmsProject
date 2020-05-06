@@ -1,7 +1,7 @@
 # Php-dbms-project
-A simple website that shows farmers details and a portal for them to buy and sell produce.
-put all files in htdocs folder of xampp
-in phpmyadmin, create the following tables:
+A simple website that shows farmers details and a portal for them to buy and sell produce.\n
+put all files in htdocs folder of xampp\n
+in phpmyadmin, create the following tables:\n
 CREATE TABLE `advisor` (
  `aid` varchar(5) NOT NULL,
  `name` varchar(50) DEFAULT NULL,
